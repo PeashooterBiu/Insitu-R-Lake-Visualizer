@@ -3,10 +3,10 @@ Manipulate and visualize single or multiple Insitu files
 
 
 #insitu_core.R
-#plots the chosen variable against depth in a single chosen insitu file
-#the first plot shows downcast data
-#the second plot shows both downcast & upcast data
-#axes/legends/title are automated
+  #plots the chosen variable against depth in a single chosen insitu file
+  #the first plot shows downcast data
+  #the second plot shows both downcast & upcast data
+  #axes/legends/title are automated
 
 
 #insitu_compare.R
